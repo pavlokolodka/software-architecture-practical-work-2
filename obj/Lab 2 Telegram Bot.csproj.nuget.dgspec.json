@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Xacker\\source\\repos\\uni\\firstYear\\SWE_Architecture\\Lab 2 Telegram Bot\\Lab 2 Telegram Bot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Xacker\\source\\repos\\uni\\firstYear\\SWE_Architecture\\Lab 2 Telegram Bot\\Lab 2 Telegram Bot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xacker\\source\\repos\\uni\\firstYear\\SWE_Architecture\\Lab 2 Telegram Bot\\Lab 2 Telegram Bot.csproj",
+        "projectName": "Lab 2 Telegram Bot",
+        "projectPath": "C:\\Users\\Xacker\\source\\repos\\uni\\firstYear\\SWE_Architecture\\Lab 2 Telegram Bot\\Lab 2 Telegram Bot.csproj",
+        "packagesPath": "C:\\Users\\Xacker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xacker\\source\\repos\\uni\\firstYear\\SWE_Architecture\\Lab 2 Telegram Bot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xacker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
