@@ -64,7 +64,6 @@ namespace Lab_2_Telegram_Bot
 
             var chatId = message.Chat.Id;
 
-
             Console.WriteLine($"Received a '{messageText}' message in chat {chatId}.");
 
             switch (message.Text)
